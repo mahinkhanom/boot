@@ -1,0 +1,287 @@
+*{
+    margin:0 auto;
+padding:0 auto;
+}
+
+body{
+font-family: "Questrial", sans-serif;
+}
+
+.nav-item{
+    margin: 0 10px 0 4px;
+}
+.first-banner{
+    background-image: url(image/pexels-darina-belonogova-7208920\ 1.png);
+    height: 683px;
+    width:1440px;
+    margin-bottom: 20px;
+}
+
+.banner-headline{
+    display: inline-block;
+    text-align: center;
+}
+
+.first-banner h1{
+    background-color: white;
+    width: 301px;
+    height: 60px;
+    letter-spacing: 10px;
+    margin: 105px 0px 16px 115px;
+}
+    
+
+.first-banner h3{
+    background-color: white;
+    width: 495px;
+    height: 50px;
+    margin-left:115px;
+}
+
+.life-theory{
+    text-align: left;
+}
+
+.bi-facebook{
+    color: rgb(68, 162, 193);
+    font-size:25px;
+}
+
+.bi-instagram{
+    font-size:25px;
+    padding: 0px 10px 0px 10px;
+}
+
+.bi-linkedin{
+    color: rgb(68, 162, 193);
+    font-size:25px;
+}
+
+.first-button{
+    padding: 3px;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 2px;
+    margin: 6px;
+}
+
+ .second-banner{
+        background-image: url(image/mm.png);
+        height: 683px;
+        width: 1440px;
+        margin-bottom: 20px;
+    }
+
+.second-banner h1{
+        background-color: white;
+        width: 301px;
+        height: 60px;
+        letter-spacing: 10px;
+        margin: 105px 0px 16px 115px;
+    }
+        
+    
+.second-banner p{
+        background-color: white;
+        width: 663px;
+        height: 65px;
+        padding: 10px 10px 10px 10px;
+        margin-left: 115px;
+    }
+
+.column-side{
+    padding:55px 20px 0px 0px;
+}
+
+.third-banner{
+    background-image: url(image/pata.png);
+    height: 591px;
+    width: 1440px;
+    margin-bottom:20px;
+}
+
+.third-banner h1{
+    background-color: white;
+    width: 301px;
+    height: 60px;
+    letter-spacing: 10px;
+    margin: 105px 0px 16px 115px;
+}
+    
+
+.third-banner h3{
+    background-color: white;
+    width: 618px;
+    height: 65px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 115px;
+}
+    
+.our-team{
+    width: 1242px;
+    height: 203px;
+    padding: 20px 0px 20px 0px; 
+    font-size:larger;
+}
+
+.two-convenient{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.fourth-banner{
+    background-image: url(image/pexels-ketut-subiyanto-4307657\ 1.png);
+    height: 591px;
+    width: 1440px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fourth-banner h1{
+    background-color: white;
+    width: 408px;
+   letter-spacing: 10px;
+   margin: 105px 0px 16px 115px;
+}
+    
+
+.fourth-banner h3{
+    background-color: white;
+    width: 637px;
+    height: 54px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 115px;
+}
+
+.column-head{
+    text-align: center;
+    font-weight: revert
+    ;}
+
+.instagram{
+        background-image: url(image/Rectangle\ 18.png);
+        color: white;
+        text-align: center;
+        padding-top: 45%;
+        font-size: 37px;
+        letter-spacing: 5px;
+        font-weight: bold;
+        height: 375px;
+        width:490px;
+        margin-right:2px;
+    }
+
+.youtube{
+        background-image: url(image/Rectangle\ 19.png);
+        color: white;
+        text-align: center;
+        padding-top: 45%;
+        font-size: 37px;
+        letter-spacing: 5px;
+        font-weight: bold;
+        height: 375px;
+        width:490px;
+    }
+
+.facebook{
+    background-image: url(image/Rectangle\ 20.png);
+    color: white;
+    text-align: center;
+    padding-top: 45%;
+    font-size: 37px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    height: 349px;
+    width:490px;
+}
+
+.twitter{
+    background-image: url(image/Rectangle\ 21.png);
+    color: white;
+    text-align: center;
+    padding-top: 45%;
+    font-size: 37px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    height: 350px;
+    width:490px;
+}
+
+
+.last-banner{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 713px;
+    position: relative;
+}
+
+.logo{
+    background-color: white;
+    color: black;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -35px;
+   margin-left: 43%;
+}
+
+.last-button{
+    color: white;
+    padding:15px;
+    width: 294px;
+    height: 69px;
+    margin-top: 100px;
+    font-size: 15px;
+    background-color: gray;
+    line-height:29.71px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.last-banner h4{
+    margin: 40px 0px 40px 0px;
+}
+
+@media screen and(max-width:992px) {
+    .first-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:600px) {
+    .first-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:992px) {
+    .second-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:600px) {
+    .second-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:992px) {
+    .third-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:600px) {
+    .third-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:992px) {
+    .last-banner{
+        width: 100%;
+    }
+}
+@media screen and(max-width:600px) {
+    .last-banner{
+        width: 100%;
+    }
+}
